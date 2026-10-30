@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Monitor",
+    "kategori": "Elektronika",
+    "kodeAlat": "001",
+    "jumlah": 10,
+    "kondisi": "Baik"
+  },
+    {
+    "id": "2",
+    "judul": "Mouse",
+    "kategori": "Elektronika",
+    "kodeAlat": "002",
+    "jumlah": 10,
+    "kondisi": "Baik"
+  },
+    {
+    "id": "3",
+    "judul": "Keyboard",
+    "kategori": "Elektronika",
+    "kodeAlat": "003",
+    "jumlah": 10,
+    "kondisi": "Baik"
+  },
+    {
+    "id": "4",
+    "judul": "Kabel HDMI",
+    "kategori": "Elektronika",
+    "kodeAlat": "004",
+    "jumlah": 10,
+    "kondisi": "Baik"
+  },
+    {
+    "id": "5",
+    "judul": "Proyektor",
+    "kategori": "Elektronika",
+    "kodeAlat": "005",
+    "jumlah": 2,
+    "kondisi": "Baik"
+  },
+    {
+    "id": "6",
+    "judul": "Printer",
+    "kategori": "Elektronika",
+    "kodeAlat": "006",
+    "jumlah": 1,
+    "kondisi": "Baik"
+  },
+    {
+    "id": "7",
+    "judul": "Kabel Lan",
+    "kategori": "Elektronika",
+    "kodeAlat": "007",
+    "jumlah": 10,
+    "kondisi": "Baik"
+  },
+    {
+    "id": "8",
+    "judul": "Multimeter",
+    "kategori": "Alat Ukur",
+    "kodeAlat": "008",
+    "jumlah": 10,
+    "kondisi": "Baik"
+  },
+    {
+    "id": "9",
+    "judul": "Lan Tester",
+    "kategori": "Alat Ukur",
+    "kodeAlat": "009",
+    "jumlah": 10,
+    "kondisi": "Baik"
+  },
+  {
+    "id": "10",
+    "judul": "Oscilloscope",
+    "kategori": "Alat Ukur",
+    "kodeAlat": "010",
+    "jumlah": 2,
+    "kondisi": "Baik"
   }
 ]
