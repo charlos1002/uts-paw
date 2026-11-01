@@ -20,12 +20,11 @@ Deployment: https://charlos1002.github.io/uts-paw/
 
 
 ## Menjalankan secara lokal
-
+```
 cd app
 npm install
 npm run dev
-
+```
 ## Konsep React yang dipakai
 
 - ...
-```
