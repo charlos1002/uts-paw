@@ -9,9 +9,9 @@ Tema: Inventaris Laboratorium
 Deployment: https://charlos1002.github.io/uts-paw/  
 
 ## Tangkapan Layar
-![Tangkapan layar beranda] (Docs/beranda.png)  
-![Tangkapan layar koleksi] (Docs/koleksi.png)  
-![Tangkapan layar tambah] (Docs/tambah.png)  
+![Tangkapan layar beranda](Docs/beranda.png)  
+![Tangkapan layar koleksi](Docs/koleksi.png)  
+![Tangkapan layar tambah](Docs/tambah.png)  
 
 ## Fitur
 - Mencatat dan Menyimpan Alat Laboratorium  
