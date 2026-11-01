@@ -3,11 +3,11 @@
 ```markdown
 # Nama Aplikasi
 
-Nama: ...
-NIM: ...
-Kelas: ...
-Tema: ...
-Deployment: https://USERNAME.github.io/uts-paw/
+Nama: ROBERTO CHARLOS SAGALA
+NIM: 123140113
+Kelas: RB
+Tema: Inventaris Laboratorium
+Deployment: https://charlos1002.github.io/uts-paw/
 
 ![Tangkapan layar beranda](docs/beranda.png)
 
