@@ -1,7 +1,6 @@
 # Ujian Tengah Semester IF25-22014 Pengembangan Aplikasi Web
 
-```markdown
-# Nama Aplikasi
+# Inventaris Laboratorium
 
 Nama: ROBERTO CHARLOS SAGALA
 NIM: 123140113
