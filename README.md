@@ -2,17 +2,22 @@
 
 # Inventaris Laboratorium
 
-Nama: ROBERTO CHARLOS SAGALA
-NIM: 123140113
-Kelas: RB
-Tema: Inventaris Laboratorium
-Deployment: https://charlos1002.github.io/uts-paw/
+Nama: ROBERTO CHARLOS SAGALA  
+NIM: 123140113  
+Kelas: RB  
+Tema: Inventaris Laboratorium  
+Deployment: https://charlos1002.github.io/uts-paw/  
 
-![Tangkapan layar beranda](docs/beranda.png)
+## Screenshot
+<img width="1920" height="924" alt="image" src="https://github.com/user-attachments/assets/d20df6ea-2b80-42b7-ac17-5f87702bab73" />  
+<img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/31a68b1c-91f9-434b-b2a4-95b50520d58a" />  
+<img width="1920" height="924" alt="image" src="https://github.com/user-attachments/assets/8f89327d-81eb-4075-a960-54532f8f515a" />  
 
 ## Fitur
+- Mencatat dan Menyimpan Alat Laboratorium  
+- Menambahkan dan Menghapus Alat Laboratorium  
+- Dashboard Alat Laboratorium yang sudah dikelompokan berdasarkan Kategori
 
-- ...
 
 ## Menjalankan secara lokal
 
