@@ -17,6 +17,7 @@ Deployment: https://charlos1002.github.io/uts-paw/
 - Mencatat dan Menyimpan Alat Laboratorium  
 - Menambahkan dan Menghapus Alat Laboratorium  
 - Dashboard Alat Laboratorium yang sudah dikelompokan berdasarkan Kategori
+- Mencari Alat laboratorium berdasarkan nama maupun kategori
 
 
 ## Menjalankan secara lokal
