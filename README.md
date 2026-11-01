@@ -27,4 +27,12 @@ npm run dev
 ```
 ## Konsep React yang dipakai
 
-- ...
+- JSX
+- Props
+- useState
+- useEffect
+- useContext
+- Context API
+- Custom Hooks
+- Local Storage
+- React Testing
