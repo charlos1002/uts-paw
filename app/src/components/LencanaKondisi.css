@@ -1,0 +1,12 @@
+.lencana {
+  display: inline-block;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  background: #e9ecef;
+  color: #495057;
+}
+.lencana-baik   { background: #d1f2dc; color: #146c2e; }
+.lencana-rusak-ringan { background: #fff3cd; color: #bd8400; }
+.lencana-rusak-berat  { background: #f8d7da; color: #a12632; }

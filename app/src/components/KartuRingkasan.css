@@ -1,0 +1,16 @@
+.ringkasan-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.ringkasan {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  background: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+}
+.ringkasan-nilai { font-size: 1.8rem; font-weight: 700; }
+.ringkasan-judul { color: #6c757d; font-size: 0.9rem; }

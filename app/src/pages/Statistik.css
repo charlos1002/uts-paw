@@ -1,11 +1,15 @@
 .tabel-gulir {
   overflow-x: auto;
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
 }
 
 .tabel-data {
   width: 100%;
   max-width: 480px;
   border-collapse: collapse;
+  flex : 1;
 }
 
 .tabel-data th,

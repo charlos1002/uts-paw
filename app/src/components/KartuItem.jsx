@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import LencanaKondisi from './LencanaKondisi.jsx'
 
 export default function KartuItem({ item }) {
   const { id, judul, kategori, kondisi, jumlah } = item
@@ -8,8 +9,9 @@ export default function KartuItem({ item }) {
         <Link to={`/koleksi/${id}`}>{judul}</Link>
       </h3>
       <p>
-        {kategori} · {kondisi} · Stok:{jumlah}
+        {kategori} · Stok:{jumlah}
       </p>
+      <LencanaKondisi kondisi={kondisi} />
     </article>
   )
 }
