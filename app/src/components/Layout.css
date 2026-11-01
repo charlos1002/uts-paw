@@ -2,6 +2,7 @@
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  background: #FFE9A9;
 }
 
 .kepala {
@@ -9,6 +10,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 1rem 1.5rem;
+  background: #FF933E;
 }
 
 .menu {
@@ -31,8 +33,10 @@
 .kaki {
   padding: 1rem 1.5rem;
   border-top: 1px solid #dcdcdc;
-  color: #57606a;
+  color: black;
   font-size: 0.9rem;
+  font-weight: bold;
+  background: #FFCB56;
 }
 
 .aksi {
@@ -64,8 +68,9 @@
 
 .kartu {
   padding: 1rem;
-  border: 1px solid #dcdcdc;
+  border: 1px solid #070707;
   border-radius: 8px;
+  background: #fff;
 }
 
 .kartu h3 {
@@ -75,7 +80,7 @@
 
 .kartu p {
   margin: 0;
-  color: #57606a;
+  color: #000000;
 }
 
 .alat-koleksi {

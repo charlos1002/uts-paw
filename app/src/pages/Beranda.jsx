@@ -12,8 +12,8 @@ export default function Beranda() {
 
   return (
     <section>
-      <h1>Inventaris Laboratorium</h1>
-      <p>Tema: {mahasiswa.tema}</p>
+      <h1>Beranda</h1>
+      <p style={{ fontSize: '1.1rem' }}>Tema: {mahasiswa.tema}</p>
       {loading ? (
         <p>Memuat ringkasan...</p>
       ) : (

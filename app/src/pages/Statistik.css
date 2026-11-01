@@ -10,12 +10,13 @@
   max-width: 480px;
   border-collapse: collapse;
   flex : 1;
+  border: 1px solid #0a0a0a;
 }
 
 .tabel-data th,
 .tabel-data td {
   padding: 0.5rem 0.75rem;
-  border-bottom: 1px solid #dcdcdc;
+  border-bottom: 1px solid #0a0a0a;
   text-align: left;
 }
 
@@ -34,8 +35,9 @@
 
 .tabel-data tfoot th,
 .tabel-data tfoot td {
-  border-top: 2px solid #1f2328;
+  border-top: 1px solid #0d0e0e;
   font-weight: 600;
+  background: #fafafa;
 }
 
 @media (max-width: 480px) {

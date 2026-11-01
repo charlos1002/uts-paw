@@ -9,8 +9,8 @@
   flex-direction: column;
   padding: 1rem;
   background: #fff;
-  border: 1px solid #dee2e6;
+  border: 1px solid #030303;
   border-radius: 8px;
 }
 .ringkasan-nilai { font-size: 1.8rem; font-weight: 700; }
-.ringkasan-judul { color: #6c757d; font-size: 0.9rem; }
+.ringkasan-judul { color: #080808; font-size: 0.9rem; }
